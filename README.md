@@ -1,13 +1,11 @@
 # react16-XMLhttpRequests-with-axios
 
+# link: https://mmstarz.github.io/react16-XMLhttpRequests-with-axios/
+
 # .get()
 # .post()
 # .delete()
 
 # posts from: https://jsonplaceholder.typicode.com/
 
-# select post
-# delete post
-# add new one
-
-# check console for more information
+# check console for request/response information

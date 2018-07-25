@@ -5,3 +5,9 @@
 .delete()
 
 posts from: https://jsonplaceholder.typicode.com/
+
+select post
+delete post
+add new one
+
+check console for more information
